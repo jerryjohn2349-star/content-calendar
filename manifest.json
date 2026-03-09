@@ -6,6 +6,7 @@
   "start_url": "/content-calendar/",
   "scope": "/content-calendar/",
   "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone", "minimal-ui", "browser"],
   "orientation": "portrait",
   "background_color": "#111113",
   "theme_color": "#111113",
