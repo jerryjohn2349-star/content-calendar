@@ -5,12 +5,11 @@
   "id": "/content-calendar/",
   "start_url": "/content-calendar/",
   "scope": "/content-calendar/",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#111113",
   "theme_color": "#111113",
   "categories": ["productivity", "utilities"],
-  "screenshots": [],
   "icons": [
     {
       "src": "icons/icon-192.png",
